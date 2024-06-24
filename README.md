@@ -8,13 +8,10 @@
 * [Technologies Used](#technologies-used)
 * [Data Questions](#Data-Questions)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
+
 
 
 ## General Information
@@ -32,64 +29,43 @@
 
 ## Technologies Used
 - Python/Jupyter Notebook - version 6.5.4
-- Excel - version 
-- PowerBI - version 
+- Excel 
+- PowerBI
+
+   Python Packages Used:
+
+  Pandas
+  Numpy
+  Matplotlib
+  Seaborn
+
 
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- ![image](https://github.com/KarenDLP/World_Population_Project/assets/156152895/ca25d055-0fbb-40db-9f1a-33ac7c582677)
 
+- ![image](https://github.com/KarenDLP/World_Population_Project/assets/156152895/4a904769-8fc7-4ff3-9e7e-3b0342f625c1)
+- ![image](https://github.com/KarenDLP/World_Population_Project/assets/156152895/5a58f2a6-5e82-4827-8dbb-d28c5b296f6c)
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
 ## Usage
 How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+1. Download data from https://population.un.org/wpp/Download/Archive/Standard/
+2. I used Python and Excel to clean data
+3. Used PowerBI for visualizations 
+4. Data can be used to view the changes in birth rate
+5. Compare country populations over time
+6. Dive into population stats for each country
+7. Interactive charts to visualize data
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
+Project is: _in progress_ 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+~ While the data set I used was large and a good data source, incorporating data from additional sources such as the World Bank and others could provide a more comprehensive view. 
+~ To better understand the long-term effects of policies, a more extensive longitudinal analysis could be conducted. 
+~ External factors such as economic downturns, pandemics (COVID-19), and cultural shifts should be considered as they can also influence birth and fertility rates. 
