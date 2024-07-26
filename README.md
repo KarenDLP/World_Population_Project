@@ -18,7 +18,7 @@
 - Many countries around the world are experiencing worrying declines in birth rates that could have major economic, social and political implications if left unaddressed. In response, governments have implemented various policies like enhanced parental leave, childcare subsidies, baby bonuses and even restrictions on abortion access in an attempt to incentivize higher fertility. 
 
 ## Motivation 
-- I am motivated to write about this topic because of my firsthand experience working with prenatal mothers early in my career. This experience plus the recent policy changes has me wondering about how various factors, especially government interventions, influence birth trends and family planning decisions. Understanding these dynamics is crucial for creating effective policies that support families and address demographic challenges.
+- I am motivated to research this topic because of my firsthand experience working with prenatal mothers early in my career. This experience plus the recent policy changes has me wondering about how various factors, especially government interventions, influence birth trends and family planning decisions. Understanding these dynamics is crucial for creating effective policies that support families and address demographic challenges.
 
 ## Data Questions
 - How have birth rates and fertility rates changed in regions or countries following the implementation of specific government policies
